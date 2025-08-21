@@ -14,7 +14,7 @@ Git is a version control system, and Github is how you usde gits (i personally d
 
 **2. Explain what "committing and pushing" means in your own words. Why are these steps important?**
 
-Making Sure to work till the end, and make sure it's done well.
+Commiting is being determined to do something, pushing means your doing something intensly. It's important because you want to be pushing and commiting in your work.
 
 **3. What is a repository and what does it contain?**
 
